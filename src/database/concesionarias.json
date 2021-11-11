@@ -451,6 +451,90 @@
                 "color": "gray"
             }
         ]
+    },
+    {
+        "sucursal": "Comisión 12",
+        "direccion": "Av. Pres. Juan Domingo Perón 2043, B1663 San Miguel, Provincia de Buenos Aires",
+        "telefono": "(011) 4451-5565",
+        "autos": [{
+                "marca": "nissan",
+                "modelo": "note",
+                "anio": 2018,
+                "color": "red"
+            },
+            {
+                "marca": "chevrolet",
+                "modelo": "camaro",
+                "anio": 2018,
+                "color": "white"
+            },
+            {
+                "marca": "chevrolet",
+                "modelo": "onix",
+                "anio": 2016,
+                "color": "gray"
+            },
+            {
+                "marca": "honda",
+                "modelo": "civic",
+                "anio": 2020,
+                "color": "black"
+            },
+            {
+                "marca": "audi",
+                "modelo": "a6",
+                "anio": 2016,
+                "color": "red"
+            },
+            {
+                "marca": "nissan",
+                "modelo": "x-trail",
+                "anio": 2016,
+                "color": "gray"
+            },
+            {
+                "marca": "peugeot",
+                "modelo": "2008",
+                "anio": 2020,
+                "color": "green"
+            },
+            {
+                "marca": "toyota",
+                "modelo": "hilux",
+                "anio": 2020,
+                "color": "gray"
+            },
+            {
+                "marca": "volkswagen",
+                "modelo": "saveiro",
+                "anio": 2020,
+                "color": "blue"
+            },
+            {
+                "marca": "fiat",
+                "modelo": "golf",
+                "anio": 2020,
+                "color": "gray"
+            },
+            {
+                "marca": "fiat",
+                "modelo": "palio",
+                "anio": 2017,
+                "color": "white"
+            },
+            {
+                "marca": "peugeot",
+                "modelo": "307",
+                "anio": 2020,
+                "color": "gray"
+            },
+            {
+                "marca": "renault",
+                "modelo": "sandero",
+                "anio": 2020,
+                "color": "gray"
+            }
+        ]
     }
 
 ]
